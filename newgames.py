@@ -2,7 +2,7 @@ import os
 import json
 import platform
 
-homeDir = r"C:\Users\mste1534\Documents\GitHub\ph4xus.github.io"
+homeDir = r"C:\Users\maxwe\Documents\GitHub\phexus23.github.io"
 jsonPath = os.path.join(homeDir, "json", "list.json")
 vaforPath = os.path.join(homeDir, "Vafor_IT")
 gxmesPath = os.path.join(homeDir, "gxmes")

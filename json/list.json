@@ -712,5 +712,12 @@
         "linksrc": "/Vafor_IT/state-io/",
         "foldername": "state-io",
         "category": "Idle"
+    },
+    {
+        "name": "Half Life",
+        "imgsrc": "/assets/img/Half-Life-Logo.jpg",
+        "linksrc": "/Vafor_IT/half-life/",
+        "foldername": "half-life",
+        "category": "Action"
     }
 ]
